@@ -16,7 +16,7 @@ The project is about building a game and understanding how the game can be built
 * socket programming
 ## Setup
 
-To run this project by following these steps. 
+To run this project by follow these steps. 
 1. Clone [this](https://github.com/NKGUPTA26/rock-paper-scissor) in your local machine.
 ```bash
 git clone https://github.com/NKGUPTA26/rock-paper-scissor
