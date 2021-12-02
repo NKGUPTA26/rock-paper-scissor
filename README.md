@@ -58,6 +58,8 @@ python3 client.py
 #In terminal Three(player2)
 python3 client.py
 ```
+![alt text](https://drive.google.com/file/d/13bTsuOxlTKv3ktARJ4sK0Q0uaR5aZQcm/view?usp=sharing)
+
 You can run as m players you want.
 
 ## Contributing
